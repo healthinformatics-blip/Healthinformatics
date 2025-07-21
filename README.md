@@ -13,7 +13,7 @@ This project looks at how malaria symptoms relate to severity, using patient dat
 - Uses charts to help understand the patterns
 
 ## Tools Used:
-
+- Math
 - Python  
 - pandas  
 - seaborn  
