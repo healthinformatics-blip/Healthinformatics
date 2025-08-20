@@ -47,6 +47,11 @@ seaborn
    `pip install -r requirements.txt`
 4. Open the notebook in Jupyter or VS Code.
 5. Run each cell to see the charts and results.
+6. Save the malaria_predictionn.py to your folder
+7. Copy the folder path and run it in command prompt
+8. Run 'streamlit run malaria_prediction.py' ---don't add the quote
+9. The app will display on Localhost
+
 
 ## Dataset:
 
