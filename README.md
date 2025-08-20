@@ -23,13 +23,20 @@ Trains and evaluates machine learning models Gradient Boosting, XGBoost, Random 
 Saves the best model and scaler for later use in an app - Gradient Boosting
 
 ## Tools Used:
-Python
-NumPy
-pandas
-scikit-learn
-imbalanced-learn
-XGBoost
+Python311
+
+NumPy 1.24.4
+
+pandas 1.5.3
+
+scikit-learn 1.2.2
+
+imbalanced-learn  0.11.0
+
+XGBoost 1.7.5
+
 matplotlib
+
 seaborn
 
 ## How to Use:
