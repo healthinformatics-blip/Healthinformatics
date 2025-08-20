@@ -41,7 +41,7 @@ seaborn
 
 ## How to Use:
 
-1. Download the notebook and dataset.
+1. Download the notebook (malaria-prediction-app.ipynb) and dataset.
 2. convert the dataset to csv
 3. Install the required libraries:  
    `pip install -r requirements.txt`
