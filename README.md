@@ -9,11 +9,17 @@ and get predictions.
 ## What the Notebook Does:
 
 Loads and explores the malaria dataset
+
 Groups patients by age and gender
+
 Counts how often each symptom appears
+
 Compares symptoms between severe and non-severe malaria cases
+
 Analyzes which age groups and genders have higher severity
+
 Trains and evaluates machine learning models Gradient Boosting, XGBoost, Random Forest, Logistic Regression and Decision Tree
+
 Saves the best model and scaler for later use in an app - Gradient Boosting
 
 ## Tools Used:
