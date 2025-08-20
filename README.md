@@ -29,4 +29,4 @@ This project looks at how malaria symptoms relate to severity, using patient dat
 
 ## Dataset:
 
-The notebook uses a file called `malaria.csv`. 
+The notebook uses a file called `mmc1.xls`. 
