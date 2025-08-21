@@ -23,7 +23,7 @@ Trains and evaluates machine learning models Gradient Boosting, XGBoost, Random 
 Saves the best model and scaler for later use in an app - Gradient Boosting
 
 ## Tools Used:
-Python311
+Python 3.13.7
 
 NumPy 1.24.4
 
