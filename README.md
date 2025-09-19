@@ -20,7 +20,7 @@ Analyzes which age groups and genders have higher severity
 
 Trains and evaluates machine learning models Gradient Boosting, XGBoost, Random Forest, Logistic Regression and Decision Tree
 
-Saves the best model and scaler for later use in an app - Gradient Boosting
+Saves the best model and scaler for later use in an app
 
 ## Tools Used:
 Python 3.13.7
@@ -56,3 +56,4 @@ seaborn
 ## Dataset:
 
 The notebook uses a file called `mmc1.xls`. 
+Read full documentation [here](https://medium.com/@zehidata/malaria-prediction-1f3df5b6e447) 
